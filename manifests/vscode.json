@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_sefaz_rs_certidao_debitos.",
+  "servers": {
+    "sefaz_rs_certidao_debitos": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_sefaz_rs_certidao_debitos"
+    }
+  }
+}
